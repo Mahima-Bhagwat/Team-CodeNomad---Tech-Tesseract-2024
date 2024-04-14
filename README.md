@@ -18,6 +18,7 @@ In a world facing a shortage of labs for analyzing scientific tests, timely resu
 
 ## Demo
 The project showcases a deep learning-based Scientific Image Classifier using a pre-trained YOLO model. It is trained on the BioForbs dataset, achieving an accuracy of 86.842% at the 10th epoch. The classifier can predict 6 major classes, including CT-scans and MRI tests, making it convenient, cost-effective, and highly accurate for lab professionals.
+Youtube Link for demo: https://youtu.be/JzKu97pkYOE
 
 ## Key Features
 - Trained on BioForbs dataset
